@@ -11,18 +11,18 @@ Location Chat App is a web application that allows users to share their real-tim
 ## Technologies
 - **Frontend**: 
   - React.js for building user interfaces
-  - Leaflet.js or Google Maps API for map functionality
+  - Google Maps API for map functionality
   - CSS for styling
 - **Backend**: 
   - Node.js and Express.js for creating the backend API
-  - MongoDB or Firebase for data storage
+  - SQL database for data storage
 - **Real-time Communication**: WebSocket for live updates
 
 ## Getting Started
 
 ### Prerequisites
 - Node.js and npm installed on your machine.
-- MongoDB or Firebase account set up (if using those for the backend).
+- SQL database account set up (or contact creator).
 
 ### Installation
 1. Clone the repository:
@@ -41,7 +41,7 @@ Location Chat App is a web application that allows users to share their real-tim
    npm start
    ```
 
-4. Open your web browser and navigate to `http://localhost:3000` to view the application.
+4. Open your web browser and navigate to your site.
 
 ## Usage
 - **Homepage**: You will see the title "Track & Check" with buttons for login and registration.
